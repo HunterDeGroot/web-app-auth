@@ -1,3 +1,4 @@
+from: https://auth0.com/blog/complete-guide-to-react-user-authentication/
 # Auth0 Express API Sample (JavaScript)
 
 This repository contains a Node.js project that defines an Express API. You'll secure this API with Auth0 to practice making secure API calls from a client application.

@@ -1,0 +1,7 @@
+version: "3"
+services:
+    back-end:
+        build: .
+        image: chaseloyd/back-end:latest
+        ports:
+        - "6060:6060"
